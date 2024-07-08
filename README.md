@@ -20,10 +20,3 @@ This program reads NHS hospital data from a CSV file, performs data cleaning and
 
 
 
-
----
-
-### Notes:
-- Customize the installation instructions (`pip install -r requirements.txt`) if you have specific package versions or additional requirements.
-- Replace `yourusername` in the clone URL with your GitHub username or organization name.
-- Ensure to include any additional information specific to your project or environment in the README.
