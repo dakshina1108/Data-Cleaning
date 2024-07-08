@@ -1,6 +1,6 @@
 import pandas as pd
 
-hospital_data = pd.read_csv(r'C:\Users\Dakshina\Desktop\Datasets\Hospital.csv')
+hospital_data = pd.read_csv(r'.\Hospital.csv')
 #Understanding the data
 print(hospital_data.head())
 
