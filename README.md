@@ -1,4 +1,4 @@
-# Hospital Data Processing Program
+# Hospital Data Cleaning Program
 
 This Python program processes hospital data from a CSV file, cleans it, combines relevant columns, and prepares it for export to Excel with hyperlinks.
 
